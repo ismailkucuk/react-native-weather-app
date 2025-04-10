@@ -24,13 +24,13 @@ Bu proje, React Native kullanılarak geliştirilmiş bir hava durumu uygulaması
 - **React Native SVG** (İkonlar ve Görseller için)
 
 ## 📸 Ekran Görüntüleri
-![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/10Pp6NC_QMVTa1rBhyitjyAl3TnVua4DH/view?usp=sharing)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/13de840a-0f28-491d-b18a-804a09998c7f)
 
-![Uygulama Ekran Görüntüsü](https://drive.google.com/drive-viewer/AKGpihYuQhbi8VB7h4T65gSejyi7griMs-XNPkR2WV6jB7kLmzRIwo19-5LMm7kcAYlUShUgF2UTMK4McPUSyoYUTu4GqX55gsGTLfg=w1920-h922-rw-v1)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/1be8bbd6-62bf-4df8-b6b4-a572cf386244)
 
-![Uygulama Ekran Görüntüsü](https://drive.google.com/drive-viewer/AKGpihZ9NHIp5x9guO_2NVHoZvOyQtVv6bommCaNwNx61OaxhKCd77cml82c9QDmIYWb3oD5h2mg-xT6J0OE9Faq1rKH0Py4ezzTcro=w1920-h922-rw-v1)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/82e3968e-e0a2-4db5-8c17-4bab390cc771)
 
-![Arama Bölümü Görünümü](https://drive.google.com/drive-viewer/AKGpihZcJi5mZUYq3iuzLucVmqJVlEgoqNBtvxdCyWg-UVCpQREAiWQkJ0n0etM_iPMM23bYcqfeLnsixeKw8rh7OeGas3z1dfx-GUs=w1920-h922)
+![Arama Bölümü Görünümü](https://github.com/user-attachments/assets/ddb2e37b-9d93-4e52-9f76-412c823f5cf0)
 
 
 ## 🚀 Kurulum ve Çalıştırma
@@ -45,7 +45,7 @@ npx expo start
 ```
 
 
-## 📬 İletişim
+## 📬 İletişim 
 
 LinkedIn: www.linkedin.com/in/ismail-küçük
 
