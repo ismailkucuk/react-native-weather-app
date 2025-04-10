@@ -24,14 +24,13 @@ Bu proje, React Native kullanılarak geliştirilmiş bir hava durumu uygulaması
 - **React Native SVG** (İkonlar ve Görseller için)
 
 ## 📸 Ekran Görüntüleri
-![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/e5aaf3f0-11ea-4948-90cf-b6664babc7ff)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/231f3cb8-0135-4a62-8b04-34354b11b0d8)
 
-![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/1be8bbd6-62bf-4df8-b6b4-a572cf386244)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/e011a6cd-9351-43fa-af87-82f650b073da)
 
-![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/82e3968e-e0a2-4db5-8c17-4bab390cc771)
+![Uygulama Ekran Görüntüsü](https://github.com/user-attachments/assets/e4c08459-4285-4de4-9542-389167ea595f)
 
-![Arama Bölümü Görünümü](https://github.com/user-attachments/assets/ddb2e37b-9d93-4e52-9f76-412c823f5cf0)
-
+![Arama Bölümü Görünümü](https://github.com/user-attachments/assets/67b4bd74-7a99-4d59-ba67-a1c94f78a81b)
 
 ## 🚀 Kurulum ve Çalıştırma
 Projeyi klonlayarak kendi cihazında çalıştırabilirsin:
