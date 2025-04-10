@@ -26,7 +26,7 @@ Bu proje, React Native kullanılarak geliştirilmiş bir hava durumu uygulaması
 ## 📸 Ekran Görüntüleri
 ![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/10Pp6NC_QMVTa1rBhyitjyAl3TnVua4DH/view?usp=sharing)
 
-![Uygulama Ekran Görüntüsü](https://drive.google.com/drive-viewer/AKGpihY-Afab2qToVgN1DMbOZa1j-3ZTFW0ZMyiuOXG3A-FPdLL4dhTxqb76qyUFEz02DRjuBdpMpvvACR1BkjlLW9lM3Rbw_R_xqXo=w1920-h922-rw-v1)
+![Uygulama Ekran Görüntüsü](https://drive.google.com/drive-viewer/AKGpihYuQhbi8VB7h4T65gSejyi7griMs-XNPkR2WV6jB7kLmzRIwo19-5LMm7kcAYlUShUgF2UTMK4McPUSyoYUTu4GqX55gsGTLfg=w1920-h922-rw-v1)
 
 ![Uygulama Ekran Görüntüsü](https://drive.google.com/drive-viewer/AKGpihZ9NHIp5x9guO_2NVHoZvOyQtVv6bommCaNwNx61OaxhKCd77cml82c9QDmIYWb3oD5h2mg-xT6J0OE9Faq1rKH0Py4ezzTcro=w1920-h922-rw-v1)
 
